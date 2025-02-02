@@ -5,6 +5,9 @@
 
 const firstName = "Anders";
 const lastName = "Latif";
+
+console.log(firstName, "and my last name is", lastName)
+
 // EXERCISE
 // show in the console
 // My first name is Anders and my last name is Latif
@@ -15,6 +18,8 @@ const lastName = "Latif";
 
 const year = "2024";
 const increment = 1;
+
+console.log(parseInt(year) + increment);
 
 // Add the year plus the increment
 // The result should be 2025
